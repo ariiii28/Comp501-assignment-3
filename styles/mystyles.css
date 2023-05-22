@@ -1,7 +1,7 @@
 body {
   padding-left: 11em;
   font-family: Montserrat, Georgia, "Times New Roman", Times, serif;
-  color: black;
+  color: #c43d3d;
   background-color: #ffdee7;
 }
 
@@ -31,11 +31,11 @@ ul.navbar a {
 }
 
 a:link {
-  color: black;
+  color: #c43d3d;
 }
 
 a:visited {
-  color: black;
+  color: #c43d3d;
 }
 
 address {
