@@ -16,13 +16,15 @@ padding-left: 11em;
     left: 1em;
     width: 9em }
 	h1 {
-  font-family: Playfair Display, Chivo, ,
-        SunSans-Regular, sans-serif }
+  font-family: Playfair Display, Chivo,
+        SunSans-Regular, sans-serif;
+  font-size: 80px;
+}
 ul.navbar li {
-  background: #74a0c2;
+  background: #b8cce3;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-right: 1em solid #d14836 }
+  border-right: 1em solid #c25344 }
 ul.navbar a {
   text-decoration: none }
 a:link {
@@ -35,7 +37,7 @@ address {
   border-top: thin dotted }
 table {
   border-collapse: collapse;
-  border: 2px solid #74a0c2;
+  border: 2px solid #d13c28;
   letter-spacing: 1px;
   font-size: 0.8rem;
 }
@@ -54,7 +56,7 @@ td {
 }
 
 tr:nth-child(even) td {
-  background-color: #74a0c2;
+  background-color: #516087;
 }
 
 tr:nth-child(odd) td {
