@@ -5,7 +5,7 @@ font-family: sans-serif;
 padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: purple;
+	
     background-color: #ffdee7 }
 	  ul.navbar {
      list-style-type: none;
@@ -16,9 +16,10 @@ padding-left: 11em;
     left: 1em;
     width: 9em }
 	h1 {
-  font-family: Playfair Display, Chivo,
+  font-family: Playfair Display, Pearl,
         SunSans-Regular, sans-serif;
   font-size: 80px;
+color: #c25344;
 }
 ul.navbar li {
   background: #b8cce3;
