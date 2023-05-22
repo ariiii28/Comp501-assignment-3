@@ -1,8 +1,12 @@
 body {
   padding-left: 11em;
-  font-family: Montserrat, Georgia, "Times New Roman", Times, serif;
+  font-family: Milan, Georgia, "Times New Roman", Times, serif;
   color: #c43d3d;
   background-color: #ffdee7;
+}
+
+h1 {
+font-size: 100px;
 }
 
 ul.navbar {
@@ -16,14 +20,14 @@ ul.navbar {
 }
 
 h1 {
-  font-family: Montserrat, Geneva, Arial, SunSans-Regular, sans-serif;
+  font-family: Milan, Geneva, Arial, SunSans-Regular, sans-serif;
 }
 
 ul.navbar li {
-  background: #80a5bd;
+  background: #bedfe8;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-right: 1em solid #ed7051;
+  border-right: 1em solid #de5649;
 }
 
 ul.navbar a {
@@ -31,11 +35,11 @@ ul.navbar a {
 }
 
 a:link {
-  color: #c43d3d;
+  color: black;
 }
 
 a:visited {
-  color: #c43d3d;
+  color: black;
 }
 
 address {
