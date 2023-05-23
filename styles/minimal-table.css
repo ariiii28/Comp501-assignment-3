@@ -37,18 +37,18 @@ address {
   border-top: thin dotted }
 table {
   border-collapse: collapse;
-  border: 2px solid #d13c28;
+  border: 2px solid #red;
   letter-spacing: 1px;
   font-size: 0.8rem;
 }
 
 td, th {
-  border: 1px solid #74a0c2;
+  border: 1px solid red;
   padding: 10px 20px;
 }
 
 th {
-  background-color: #74a0c2;
+  background-color: white;
 }
 
 td {
@@ -56,11 +56,11 @@ td {
 }
 
 tr:nth-child(even) td {
-  background-color: #516087;
+  background-color: white;
 }
 
 tr:nth-child(odd) td {
-  background-color: #74a0c2;
+  background-color: white;
 }
 
 caption {
