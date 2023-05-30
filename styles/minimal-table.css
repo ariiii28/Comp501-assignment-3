@@ -67,3 +67,12 @@ caption {
   padding: 10px;
 }
   
+
+body {
+  padding-left: 300px;
+  padding-right: 300px;
+  font-family: Milan, Georgia, "Times New Roman", Times, serif;
+  color: #c43d3d;
+  background-color: #ffdee7;
+}
+
